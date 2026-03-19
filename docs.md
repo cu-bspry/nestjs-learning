@@ -15,6 +15,6 @@ Open the file in your personal IDE like VS Code.
 2. Wait for your order to arrive
 3. Give the items to your pets.
 
-- Feed your fish
+- Feed your Phish
 - Give your cat a toy
-- Walk your dog on a new leash
+- Walk your dog on a brand new leash
